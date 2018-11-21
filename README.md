@@ -1,1 +1,1 @@
-A undertandeable react boilerplate for noobs is coming soon..
+An undertandeable react boilerplate for noobs is coming soon..
